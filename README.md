@@ -3,7 +3,7 @@
 Ron Qiao  
 April 2019  
 
-During my previous project, I spent roughly 80% of my time over two weeks scraping data and acclimating myself with Python, Pandas, APIs, and data cleaning. I learned a considerable amount, though it left me with minimal time to work on my features and regression models. Therefore, I opted for a more pragmatic approach this time around and decided to skip the data acquisition portion of a data science project by immersing myself in a Kaggle competition dataset. The biggest factors influencing this decision were the following:  
+During my previous project, I spent roughly 80% of my time over two weeks scraping data and acclimating myself with Python, Pandas, APIs, and data cleaning. I learned a considerable amount, though it left me with minimal time to work on my features and regression models. Therefore, I opted for a more pragmatic approach this time around and decided to skip data acquisition and immerse myself directly in a Kaggle competition dataset. The biggest factors influencing this decision were the following:  
 1. Focus on learning  
 \- My priority first and foremost was to familiarize myself with classification models and their practical applications in the real world. What were these models capable of, how were they constructed, and how could they have a tangible impact in a business or product setting? 
 2. Explore Kaggle  
