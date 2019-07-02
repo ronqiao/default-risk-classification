@@ -11,7 +11,8 @@ During my previous project, I spent roughly 80% of my time over two weeks scrapi
 3. Real world data  
 \- Home credit was a great dataset because it represented real data on individuals in the Southeast Regions of Asia. Working with features such as an applicant's family size, occupation type, and home size was not only fascinating from a personal perspective, but it also allowed me to work creatively and introduce some basic domain knowledge.
 
-<hr>
+<hr>  
+
 # **Home Credit Default Risk**  
 
 This project attempts to model and predict the default risk of consumer loan applicants by analyzing data from several sources including bureau data as well as previous home credit applications and installments. All files within the dataset were provided by Home Credit and can be found on Kaggle under the home credit default risk competition.  
